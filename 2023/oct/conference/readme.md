@@ -1,5 +1,5 @@
 
-# Using Grafana with Discourse
+# Using Grafana with Discourse API
 
 In this repo you will find information about the useful links which I presented during my talk on **Monitoring Discourse via API using Grafana**. In case if any of the links do not work, then please report an issue about it and I will be happy to fix it ASAP.
 
