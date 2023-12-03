@@ -12,7 +12,7 @@ If you want to learn more about Grafana or want a training/workshop program for 
 
 - Download **[Infinity Data source plugin](https://grafana.com/grafana/plugins/yesoreyeram-infinity-datasource/)**
 
-- Download [Discouse](https://github.com/discourse/discourse) Open Souece forum
+- Download **[Discouse](https://github.com/discourse/discourse)** Open Souece forum
 
 
 ## Documentation links
