@@ -1,7 +1,11 @@
 
 # Getting the complete Observability by monitoring cloud data via API using Grafana
 
-In this repo, you will find information about the useful links that I presented during my talk on **Getting the complete Observability by monitoring cloud data via API using Grafana**. In case any of the links do not work, then please report an issue about it and I will be happy to fix it ASAP.
+In this repo, you will find information about the useful links that I presented during my talk on **Getting the complete Observability by monitoring cloud data via API using Grafana**.
+
+This talk was presented at **[Commit Conf 2024](https://2024.commit-conf.com/)** in Madrid, Spain
+
+In case any of the links do not work, then please report an issue about it and I will be happy to fix it ASAP.
 
 If you want to learn more about Grafana or want a training/workshop program for an internal/external event, please reach out to me via **[**Linkedin**](https://www.linkedin.com/in/syed-usman-ahmad-b1415515/)**
 
