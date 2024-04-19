@@ -7,7 +7,10 @@ This talk was presented at **[Commit Conf 2024](https://2024.commit-conf.com/)**
 
 In case any of the links do not work, then please report an issue about it and I will be happy to fix it ASAP.
 
-If you want to learn more about Grafana or want a training/workshop program for an internal/external event, please reach out to me via **[**Linkedin**](https://www.linkedin.com/in/syed-usman-ahmad-b1415515/)**
+If you want to learn more about Grafana or want a training/workshop program for an internal/external event, please reach out to me via:
+  <a href="https://www.linkedin.com/in/syed-usman-ahmad-b1415515/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
+  </a>
 
 
 # Links to Download
