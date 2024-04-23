@@ -3,7 +3,7 @@
 
 In this repo, you will find information about the useful links that I presented during my talk on **Observe your GitHub repos efficiently**.
 
-This talk was presented at **[Software Quality Days 2024](https://www.software-quality-days.com/en/)** in Madrid, Spain
+This talk was presented at **[Software Quality Days 2024](https://www.software-quality-days.com/en/)** in Vienna, Austria.
 
 In case any of the links do not work, then please report an issue about it and I will be happy to fix it ASAP.
 
