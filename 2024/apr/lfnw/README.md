@@ -1,7 +1,7 @@
 
 # Levelling up your Grafana Skills
 
-In this repo you will find information about the useful links which I presented during my talk on **Levelling up your Grafana Skills**. In case if any of the links do not work, then please report an issue about it and I will be happy to fix it ASAP.
+In this repo you will find information about the useful links which I presented during my talk on **Levelling up your Grafana Skills** at **Linux Fest North West** 2024 in Bellingham, Washington 🇺🇸. In case if any of the links do not work, then please report an issue about it and I will be happy to fix it ASAP.
 
 If you want to learn more about Grafana OR want a **Specialized training/workshop program** for an internal/external event, please reach out to me via:
   <a href="https://www.linkedin.com/in/syed-usman-ahmad-b1415515/" target="_blank">
