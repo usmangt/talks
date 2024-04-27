@@ -1,3 +1,7 @@
+This Page contains information about the 2 talks that I have presented during the LNFW 2024. Please scroll down to the page to find each talk as it is numbered as **1 and 2**
+
+------------------------------------------------------------
+
 # Talk #1 The Complete Observability Stack for Your Web Applications
 
 In this repo, you will find information about the useful links, I presented during my talk on **The Complete Observability Stack for your Web Applications** at **Linux Fest North West** 2024 in Bellingham, Washington 🇺🇸. In case if any of the links do not work, please report an issue about it and I will be happy to fix it ASAP.
@@ -34,6 +38,7 @@ If you want to learn more about Grafana OR want a **Specialized training/worksho
 - Grafana **[Community forums](https://community.grafana.com/)**
 - Grafana **[Slack channel]( https://slack.grafana.com/)**
 
+------------------------------------------------------------
 
 # Talk #2 Levelling up your Grafana Skills
 
