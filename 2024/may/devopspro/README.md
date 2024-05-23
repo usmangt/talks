@@ -37,6 +37,7 @@ If you want to learn more about Grafana or want a training/workshop program for 
 ## Troubleshooting
 
 - Grafana public **[GitHub repo](https://github.com/grafana/grafana/)** to report issues grafana related issues, bugs, feature-requests
+
 - Google Sheets Data source pulgin **[GitHub repo](https://github.com/grafana/google-sheets-datasource)** to report plugin related issues, bugs, feature-requests
 
 
