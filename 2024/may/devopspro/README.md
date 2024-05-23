@@ -27,7 +27,7 @@ If you want to learn more about Grafana or want a training/workshop program for 
 
 - Using **[Dashboard Variables](https://grafana.com/docs/grafana/latest/dashboards/variables/)**
 
-- How to use **[Infinity plugin](https://grafana.com/docs/plugins/yesoreyeram-infinity-datasource/latest/)**
+- How to use **[Google Sheets Data source plugin](https://github.com/grafana/google-sheets-datasource/tree/main?tab=readme-ov-file#google-sheets-data-source)**
 
 - Exploring **[Grafana Panels and Visualisation](https://grafana.com/docs/grafana/latest/panels-visualizations/)**
 
