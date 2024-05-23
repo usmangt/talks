@@ -23,6 +23,8 @@ If you want to learn more about Grafana or want a training/workshop program for 
 
 ## Documentation links
 
+- New to Grafana, learn it from the **[Official Tutorial](https://grafana.com/tutorials/grafana-fundamentals/?pg=tutorials&plcmt=results)**
+
 - About **[Transformation](https://grafana.com/docs/grafana/latest/panels-visualizations/query-transform-data/transform-data/)**
 
 - Using **[Dashboard Variables](https://grafana.com/docs/grafana/latest/dashboards/variables/)**
