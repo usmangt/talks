@@ -43,4 +43,5 @@ If you want to learn more about Grafana or want a training/workshop program for 
 ## Community resources
 
 - Grafana **[Community forums](https://community.grafana.com/)**
+
 - Grafana **[Slack channel]( https://slack.grafana.com/)**
