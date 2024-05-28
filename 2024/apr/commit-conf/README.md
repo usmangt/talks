@@ -3,7 +3,7 @@
 
 In this repo, you will find information about the useful links that I presented during my talk on **Getting the complete Observability by monitoring cloud data via API using Grafana**.
 
-This talk was presented at **[Commit Conf 2024](https://2024.commit-conf.com/)** in Madrid, Spain
+This talk was presented at **[Cloud Conf 2024](https://2024.cloudconf.it/schedule.html)** in Turin, Italy.
 
 In case any of the links do not work, then please report an issue about it and I will be happy to fix it ASAP.
 
