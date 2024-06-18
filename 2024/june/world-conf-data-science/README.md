@@ -36,6 +36,10 @@ If you want to learn more about Grafana or want a training/workshop program for 
 - Google Sheets **[Refernece Guide](https://developers.google.com/sheets)**
 
 
+## Live Demo Dashboards
+
+- [**Link**](https://play.grafana.org/dashboards/f/fdkalyzh93fuoe/demo3a-google-sheets) to the Dashboards used during the presentation
+
 ## Troubleshooting
 
 - Grafana public **[GitHub repo](https://github.com/grafana/grafana/)** to report issues grafana related issues, bugs, feature-requests
