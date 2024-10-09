@@ -20,6 +20,9 @@ If you want to learn more about Grafana or want a training/workshop program for 
 
 - Download **[Discouse](https://github.com/discourse/discourse)** Open Souece forum
 
+## Using Grafana Play Demo Environment
+
+- Learning from **[live demo](https://play.grafana.org/)**
 
 ## Documentation links
 
