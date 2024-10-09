@@ -22,7 +22,7 @@ If you want to learn more about Grafana or want a training/workshop program for 
 
 ## Using Grafana Play Demo Environment
 
-- Learning from **[live demo](https://play.grafana.org/)**
+- Learning from **[Live Demo](https://play.grafana.org/)**
 
 ## Documentation links
 
