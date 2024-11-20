@@ -55,5 +55,5 @@ If you want to learn more about Grafana or want a training/workshop program for 
 Check out the video, where I have also explained this in a video tutorial that covers everything from basic steps to advanced visualization techniques that can help you master Grafana skills.
 
 <div align="center">
-  <a href="https://www.youtube.com/watch?v=FY7VmuQUk-s"><img src="https://img.youtube.com/vi/FY7VmuQUk-s/0.jpg" alt="Visualize Spreadsheet with Grafana"></a>
+  <a href="https://www.youtube.com/watch?v=MtiDQITaqyo"><img src="https://img.youtube.com/vi/MtiDQITaqyo/0.jpg" alt="Visualize Spreadsheet with Grafana"></a>
 </div>
