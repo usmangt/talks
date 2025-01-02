@@ -28,18 +28,35 @@ This Repo contains slides that I had presented in conferences and meetups
 - Here is the [link](https://www.linkedin.com/posts/syed-usman-ahmad-b1415515_monitoring-observability-grafana-activity-7188089763474681856-GYwv?utm_source=share&utm_medium=member_desktop) to the LinkedIn post.
 
 ## [2023](https://github.com/usmangt/talks/tree/master/2023)
-### September - CIVO Navigate Europe (London)
 
-- Here is the [link](https://github.com/usmangt/talks/blob/master/2023/sept/conference/usman.ahmad%20-%20leveling%20up%20your%20grafana%20skills%20-%206.sept.2023-civo.pdf) to the **Slides**.
-- Here is the [link](https://www.linkedin.com/posts/syed-usman-ahmad-b1415515_grafana-opensource-civo-activity-7090687158578999296-yNlE?utm_source=share&utm_medium=member_desktop) to the **LinkedIn post**.
+### December 
 
+#### [Open Source Experience](https://www.opensource-experience.com/en/) (Paris)
 
-### October - Platform Summit - Nordic APIs (Stockholm)
+- Here is the [link](https://www.linkedin.com/posts/syed-usman-ahmad-b1415515_osxp2023-osxp-opensource-activity-7133890650948657152-iE5p?utm_source=share&utm_medium=member_desktop) to the **LinkedIn Post**.
+- Here is the [link](https://github.com/usmangt/talks/tree/master/2023/december/conference) to the **Slides**.
+
+#### [API Days - Paris](https://www.apidays.global/paris2023/) (France)
+
+- Here is the [link](https://www.apidays.global/speaker/syed-usman-ahmad/) to my Speaker profile.
+- Here is the [link](https://www.linkedin.com/posts/syed-usman-ahmad-b1415515_grafana-api-integration-activity-7140054860669886464-1bI1?utm_source=share&utm_medium=member_desktop) to the LinkedIn Post.
+- Here is the [link](https://www.youtube.com/watch?v=B2H-KQxYIPM&list=PLqar5Efv1_YIkOTgVnSCqVHqYAbd8ciJr&index=8) to the video 
+
+### October
+
+#### [Platform Summit - Nordic APIs](https://nordicapis.com/) (Stockholm)
 
 - Here is the [link](https://www.youtube.com/watch?v=snQ_YDNYhF4&list=PLqar5Efv1_YIkOTgVnSCqVHqYAbd8ciJr&index=6) to the **Video recording**.
 - Here is the [link-1](https://www.linkedin.com/posts/syed-usman-ahmad-b1415515_platformsummit2023-grafana-nordicapis-activity-7109180948537044992-2K_B?utm_source=share&utm_medium=member_desktop) [link-2](https://www.linkedin.com/posts/syed-usman-ahmad-b1415515_platformsummit2023-grafana-api-activity-7120423027875422208-Y-2U?utm_source=share&utm_medium=member_desktop) to the **LinkedIn post**.
 
-### December - Open Source Experience (Paris)
+### September
 
-- Here is the [link](https://www.linkedin.com/posts/syed-usman-ahmad-b1415515_osxp2023-osxp-opensource-activity-7133890650948657152-iE5p?utm_source=share&utm_medium=member_desktop) to the **LinkedIn Post**.
-- Here is the [link](https://github.com/usmangt/talks/tree/master/2023/december/conference) to the **Slides**.
+#### [CIVO Navigate Europe](https://www.civo.com/navigate/europe/2023) (London)
+
+- Here is the [link](https://github.com/usmangt/talks/blob/master/2023/sept/conference/usman.ahmad%20-%20leveling%20up%20your%20grafana%20skills%20-%206.sept.2023-civo.pdf) to the **Slides**.
+- Here is the [link](https://www.linkedin.com/posts/syed-usman-ahmad-b1415515_grafana-opensource-civo-activity-7090687158578999296-yNlE?utm_source=share&utm_medium=member_desktop) to the **LinkedIn post**.
+
+### June
+- [GrafanaCON](https://www.meetup.com/grafana-and-friends-berlin/events/292833226/) - Berlin (Germany)
+- Here is the [link](https://www.meetup.com/grafana-and-friends-berlin/events/292833226/) to the meetup
+
