@@ -2,6 +2,10 @@
 
 This Repo contains slides that I had presented in conferences and meetups
 
+## [2025](https://github.com/usmangt/talks/tree/master/2025)
+
+
+
 ## [2024](https://github.com/usmangt/talks/tree/master/2024)
 
 ### Nov
