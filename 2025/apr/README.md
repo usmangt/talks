@@ -1,9 +1,8 @@
-
 # Docker-Grafana best Practices for easy deployments
 
 In this repo, you will find information about the useful links that I presented during my talk on **Docker-Grafana best Practices for easy deployments**.
 
-This talk was presented at **[DevOps Days Tokyo 2ß25](https://www.devopsdaystokyo.org/)** in Tokyo, Japan.
+This talk was presented at **[DevOps Days Tokyo 2025](https://www.devopsdaystokyo.org/)** in Tokyo, Japan 🇯🇵
 
 In case any of the links do not work, then please report an issue about it and I will be happy to fix it ASAP.
 
@@ -11,6 +10,11 @@ If you want to learn more about Grafana or want a training/workshop program for 
   <a href="https://www.linkedin.com/in/syed-usman-ahmad-b1415515/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
   </a>
+
+Also, checkout my YouTube channel where I upload tutorial videos for Open Source Softwares (OSS):
+  <a href="https://www.youtube.com/@freelinuxtutorials" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=Free%20Open%20Source%20Tutorials&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="youtube logo"  />
+  </a>  
 
 # Links to Downloads
 
@@ -63,5 +67,4 @@ Check out these 2 videos, where I have also explained step-by-step instructions 
 </div>
 
 - [Link](https://medium.com/@syed_usman_ahmed/using-grafana-with-docker-part-2-85883d833867?source=user_profile_page---------6-------------a597dec5b711----------------------) to read the Medium blog post.
-
 
