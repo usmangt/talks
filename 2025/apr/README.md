@@ -24,7 +24,7 @@ Also, checkout my YouTube channel where I upload tutorial videos for Open Source
 - Download **[Grafana](https://grafana.com/grafana/)**
 - Get **[Docker](https://docs.docker.com/get-started/get-docker/)**
 
-## Documentation links
+## Documentation links and useful resources
 
 - Grafana Docker complere **[Official documentation](https://grafana.com/docs/grafana/latest/setup-grafana/installation/docker/)**
 + Grafana Official Docker repos:
@@ -41,6 +41,8 @@ Also, checkout my YouTube channel where I upload tutorial videos for Open Source
 
 - Introduction to **[Grafana Loki](https://grafana.com/docs/loki/latest/)**
   + Link to example [repo](https://github.com/usmangt/denog24)
+
+- Grafana Play public **[Demos](https://play.grafana.org/)**
 
 ## Troubleshooting
 
