@@ -4,6 +4,48 @@ This Repo contains slides that I had presented in conferences and meetups
 
 ## [2025](https://github.com/usmangt/talks/tree/master/2025)
 
+### Feb
+
+#### Civo Navigate North America - San Fransisco (US)
+
+- Here is the [link](https://www.civo.com/navigate/san-francisco/2025/speakers) to the Speaker profile.
+- Here is the [link](https://www.linkedin.com/feed/update/urn:li:activity:7286034723292786689/) to the LinkedIn post.
+- Here is the link to the video recording (TBA).
+
+### Mar
+
+#### Scale22x - Pasadena - California (US)
+
+- Here is the [link](https://www.socallinuxexpo.org/scale/22x/speakers/syed-usman-ahmad) to the Speaker profile.
+- Here is the [link](https://www.linkedin.com/posts/usmanlinux_grafana-scale22x-mysql-activity-7304090224224096256-yXLM/) to the LinkedIn post.
+- Here is the [link](https://www.youtube.com/watch?v=-nJrugKKP1w&list=PLqar5Efv1_YIkOTgVnSCqVHqYAbd8ciJr&index=1&t=16181s&pp=iAQB) to the video recording.
+
+### Apr
+
+#### DevOpsDays Tokyo 2025 (Japan)
+
+- Here is the [link](https://confengine.com/conferences/devopsdays-tokyo-2025/proposal/21405/docker-grafana-best-practices-for-easy-deployments) to the Speaker profile.
+- Here is the [link](https://www.linkedin.com/posts/usmanlinux_devopsdays-grafana-docker-activity-7318677629048418305-RByn/) to the LinkedIn post.
+- Here is the link to the video recording (TBA).
+
+#### Women in Software Engineering (WiSE) - Tokyo (Japan)
+
+- Here is the [link](https://www.linkedin.com/posts/womeninsoftwarejp_womeninsoftware-womeninsoftwareengineering-activity-7318422953195421696-ztnT/) to the Speaker profile.
+- Here is the [link](https://www.linkedin.com/feed/update/urn:li:activity:7319570512383287296/) to the LinkedIn post.
+- Here is the link to the video recording (TBA).
+
+### May
+
+#### GrafanaCON 2025 - Seattle (US)
+
+- Here is the [link](https://grafana.com/events/grafanacon/2025/hands-on-labs/best-practices-to-level-up-your-grafana-dashboarding-skills/) to the Speaker profile.
+- Here is the [link](https://www.linkedin.com/feed/update/urn:li:activity:7317567155028332544/) to the LinkedIn post.
+
+#### JCON Europe 2025 - Cologne (Germany)
+
+- Here is the [link](https://schedule.jcon.one/speaker/445593cb-1817-4787-8ce7-6362ed4b055a) to the Speaker profile.
+- Here is the [link](https://www.linkedin.com/feed/update/urn:li:activity:7319253509088923648/) to the LinkedIn post.
+- Here is the link to the video recording (TBA).
 
 
 ## [2024](https://github.com/usmangt/talks/tree/master/2024)
@@ -14,7 +56,7 @@ This Repo contains slides that I had presented in conferences and meetups
 
 - Here is the [link](https://osmc.de/talks/observe-your-github-repos-efficiently/) to the Speaker profile.
 - Here is the [link](https://www.linkedin.com/posts/open-source-monitoring-conference_devops-sre-repositories-activity-7229743704243113984-Dn2c) to the LinkedIn post.
-- Here is the [link](https://www.youtube.com/watch?v=0P6XLuAbCqM&list=PLqar5Efv1_YIkOTgVnSCqVHqYAbd8ciJr&index=11) to the video recordings
+- Here is the [link](https://www.youtube.com/watch?v=0P6XLuAbCqM&list=PLqar5Efv1_YIkOTgVnSCqVHqYAbd8ciJr&index=11) to the video recording
 
 #### [DENOG Workshop](https://www.denog.de/de/meetings/denog16/index.html) - Berlin (Germany)
 
@@ -31,7 +73,7 @@ This Repo contains slides that I had presented in conferences and meetups
 
 - Here is the [link](https://rabbitmq-summit-2024.sessionize.com/speaker/445593cb-1817-4787-8ce7-6362ed4b055a) to the Speaker profile.
 - Here is the [link](https://www.linkedin.com/posts/usmanlinux_rabbitmq-grafana-opensource-activity-7255158791153889280-DCbm) to the LinkedIn post.
-- Here is the [link](https://www.youtube.com/watch?v=31QVCc2J3bM&list=PLqar5Efv1_YIkOTgVnSCqVHqYAbd8ciJr&index=10&pp=iAQB) to the video recordings
+- Here is the [link](https://www.youtube.com/watch?v=31QVCc2J3bM&list=PLqar5Efv1_YIkOTgVnSCqVHqYAbd8ciJr&index=10&pp=iAQB) to the video recording
 
 ### Sept
 
@@ -85,7 +127,7 @@ This Repo contains slides that I had presented in conferences and meetups
 
 - Here is the [link](https://lfnw2024.sessionize.com/speaker/445593cb-1817-4787-8ce7-6362ed4b055a) to my Speaker profile.
 - Here is the [link](https://www.linkedin.com/posts/syed-usman-ahmad-b1415515_linux-opensourcecommunity-lfnw-activity-7190531840787537920-iFQz?utm_source=share&utm_medium=member_desktop) to the LinkedIn post.
-- Here is the [link](https://www.youtube.com/watch?v=sTQ6GOplA7k&list=PLqar5Efv1_YIkOTgVnSCqVHqYAbd8ciJr&index=9) to the video recordings (2 different sessions).
+- Here is the [link](https://www.youtube.com/watch?v=sTQ6GOplA7k&list=PLqar5Efv1_YIkOTgVnSCqVHqYAbd8ciJr&index=9) to the video recording (2 different sessions).
 
 #### [Software Quality Days](https://www.software-quality-days.com/en/) (Austria)
 
