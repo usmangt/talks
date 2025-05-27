@@ -17,11 +17,10 @@ If you want to learn more about Grafana or want a training/workshop program for 
 - Download **[Grafana](https://grafana.com/grafana/)**
 
 - Download **[GitHub Data source plugin](https://github.com/grafana/github-datasource/)**
-- Download Amazon Athena data source
+- Download **[Amazon Athena data source](https://grafana.com/grafana/plugins/grafana-athena-datasource/)**
+- Download **[Infinity data source](https://grafana.com/grafana/plugins/yesoreyeram-infinity-datasource/)**
 
 ## Documentation links
-
-- Using the **[GitHub Data source Plugin](https://grafana.com/docs/plugins/grafana-github-datasource/latest/)** documentation
 
 - About **[Transformation](https://grafana.com/docs/grafana/latest/panels-visualizations/query-transform-data/transform-data/)**
 
@@ -31,7 +30,7 @@ If you want to learn more about Grafana or want a training/workshop program for 
 
 ## Troubleshooting
 
-- GitHud Plugin public repo **[GitHub Plugin repo](https://github.com/grafana/github-datasource/issues)** to report issues grafana related issues, bugs, feature-requests
+- Grafana public [repo](https://github.com/grafana/grafana/issues) to report issues grafana related issues, bugs, feature-requests
 
 ## Community resources
 
