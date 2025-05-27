@@ -12,6 +12,12 @@ If you want to learn more about Grafana or want a training/workshop program for 
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
   </a>
 
+Also, check out my YouTube channel for Linux and Grafana realted tutorials:
+
+  <a href="https://www.youtube.com/@freelinuxtutorials" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=Free%20Open%20Source%20Tutorials&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="youtube logo"  />
+  </a>
+
 # Links to Download
 
 - Download **[Grafana](https://grafana.com/grafana/)**
