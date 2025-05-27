@@ -3,7 +3,7 @@
 
 In this repo, you will find information about the useful links that I presented during my talk on **3 data source plugins** to add in your Grafana stack.
 
-This talk was presented at **[GrafanaCON 2025](https://grafana.com/events/grafanacon/)** in Seattle, US.
+This talk was presented at **[GrafanaCON 2025](https://grafana.com/events/grafanacon/)** in Seattle, US 🇺🇸.
 
 In case any of the links do not work, then please report an issue about it and I will be happy to fix it ASAP.
 
