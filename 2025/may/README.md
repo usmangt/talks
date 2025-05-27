@@ -1,5 +1,5 @@
 
-# 3 data source plugins - Grafana & Friends Meetup Frankfurt
+# The 3 data source plugins for your stack - Grafana & Friends Meetup Frankfurt
 
 In this repo, you will find information about the useful links that I presented during my talk on **3 data source plugins** to add in your Grafana stack.
 
