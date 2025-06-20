@@ -1,6 +1,6 @@
 # The Perfect Toolkit for Container Monitoring
 
-In this repo, you will find information about the useful links, I presented during my lighting talk on **The Perfect Toolkit for Container Monitoring** at **Devoxx Poland** 2025 in Krakow, Poland 🇵🇱.
+In this repo, you will find information about the useful links, I presented during my lighting talk on **The Perfect Toolkit for Container Monitoring** at **Devoxx Poland 2025** in Krakow, Poland 🇵🇱.
 
 In case any of the links do not work, then please report an issue about it and I will be happy to fix it ASAP.
 
