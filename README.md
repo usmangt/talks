@@ -4,18 +4,37 @@ This Repo contains slides that I had presented in conferences and meetups
 
 ## [2025](https://github.com/usmangt/talks/tree/master/2025)
 
+### June
+
+#### [SREDay Cologne 2025](https://sreday.com/2025-cologne-q2/) - Cologne (Germany 🇩🇪))
+
+- Here is the [link](https://www.linkedin.com/posts/usmanlinux_learn-how-to-turn-your-github-data-into-interactive-activity-7336373732560543744-SKmh) to the Speaker profile.
+- Here is the [link](https://www.linkedin.com/feed/update/urn:li:activity:7339208530446495744/) to the LinkedIn post.
+- Here is the [link](https://www.youtube.com/watch?v=7Z8j0GTMyWU&list=PLqar5Efv1_YIkOTgVnSCqVHqYAbd8ciJr&index=1&pp=iAQB) to the video recording.
+
+#### [Devoxx Poland 2025](https://devoxx.pl/) - Krakow (Poland 🇵🇱)
+
+- Here is the [link](https://devoxx.pl/talk-details/?id=9682) to the Speaker profile.
+- Here is the [link](https://www.linkedin.com/feed/update/urn:li:activity:7338830338900574208/) to the LinkedIn post.
+- Here is the link to the video recording (TBA).
+
 ### May
 
-#### [GrafanaCON 2025](https://grafana.com/events/grafanacon/) - Seattle (US 🇺🇸)
+#### [Grafana & Friends Meetup Frankfurt](https://www.meetup.com/grafana-friends-frankfurt/events/307071612/?eventOrigin=your_events) - Frankfurt (Germany 🇩🇪)
 
-- Here is the [link](https://grafana.com/events/grafanacon/2025/hands-on-labs/best-practices-to-level-up-your-grafana-dashboarding-skills/) to the Speaker profile.
-- Here is the [link](https://www.linkedin.com/feed/update/urn:li:activity:7317567155028332544/) to the LinkedIn post.
+- Here is the [link](https://www.meetup.com/grafana-friends-frankfurt/events/307071612/?eventOrigin=your_events) to the Speaker profile.
+- Here is the [link](https://www.linkedin.com/feed/update/urn:li:activity:7333342349672005633/) to the LinkedIn post.
 
 #### [JCON Europe 2025](https://2025.europe.jcon.one/) - Cologne (Germany 🇩🇪)
 
 - Here is the [link](https://schedule.jcon.one/speaker/445593cb-1817-4787-8ce7-6362ed4b055a) to the Speaker profile.
 - Here is the [link](https://www.linkedin.com/feed/update/urn:li:activity:7319253509088923648/) to the LinkedIn post.
 - Here is the link to the video recording (TBA).
+
+#### [GrafanaCON 2025 **Hands-On-Lab Workshop**](https://grafana.com/events/grafanacon/) - Seattle (US 🇺🇸)
+
+- Here is the [link](https://grafana.com/events/grafanacon/2025/hands-on-labs/best-practices-to-level-up-your-grafana-dashboarding-skills/) to the Speaker profile.
+- Here is the [link](https://www.linkedin.com/feed/update/urn:li:activity:7317567155028332544/) to the LinkedIn post.
 
 ### Apr
 
