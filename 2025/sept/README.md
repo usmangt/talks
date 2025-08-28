@@ -1,6 +1,6 @@
 # Unlocking Cloud Data Insights with Grafana's API Monitoring
 
-In this repo, you will find information about the useful links, I presented during my talk on **Unlocking Cloud Data Insights with Grafana's API Monitoring** at **Cloud X 2025** in Santa Clara, US 🇺🇸
+In this repo, you will find information about the useful links, I presented during my talk on **Unlocking Cloud Data Insights with Grafana's API Monitoring** at the **Cloud X 2025** in Santa Clara, US 🇺🇸
 
 In case any of the links do not work, then please report an issue about it and I will be happy to fix it ASAP.
 
