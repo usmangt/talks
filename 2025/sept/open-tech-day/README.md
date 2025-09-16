@@ -30,12 +30,12 @@ Also, check out my YouTube channel for **Linux and Grafana realted tutorials**:
 
 - Learning from **[Live Demo](https://play.grafana.org/)**
 
-## Troubleshooting
-
-- Grafana public **[GitHub repo](https://github.com/grafana/grafana/)** to report issues grafana related issues, bugs, feature-requests
-
 ## Community resources
 
 - Grafana **[Community forums](https://community.grafana.com/)**
 - Grafana **[Slack channel]( https://slack.grafana.com/)**
 - Join Community Calls **[Web view](https://calendar.google.com/calendar/embed?src=grafana.com_n57lluqpn4h4edroeje6199o00%40group.calendar.google.com)** / **[Import in your own calendar](https://calendar.google.com/calendar/ical/grafana.com_n57lluqpn4h4edroeje6199o00%40group.calendar.google.com/public/basic.ics)**
+
+## Troubleshooting
+
+- Grafana public **[GitHub repo](https://github.com/grafana/grafana/)** to report issues grafana related issues, bugs, feature-requests
