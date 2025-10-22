@@ -17,19 +17,21 @@ Also, check out my YouTube channel for **Linux and Grafana realted tutorials**:
 
 # Links to Download
 
+- Download **[Prometheus](https://prometheus.io/download/)**
 - Download **[Grafana](https://grafana.com/grafana/)**
 
 ## Documentation links
 
 - Learn Grafana **[Grafana](https://grafana.com/grafana/)**
 
-- How to use **[Prometheus with Grafana](https://www.youtube.com/watch?v=Wmgs1E9Ry-s)**
+- How to use **[Prometheus with Grafana](https://grafana.com/docs/grafana/latest/getting-started/get-started-grafana-prometheus/)**
 
 - Exploring **[Grafana Panels and Visualisation](https://grafana.com/docs/grafana/latest/panels-visualizations/)**
 
 ## Troubleshooting
 
 - Grafana public **[GitHub repo](https://github.com/grafana/grafana/)** to report issues grafana related issues, bugs, feature-requests
+- **[Grafana Promtheus data source page](https://github.com/grafana/grafana/issues?q=is%3Aissue%20state%3Aopen%20label%3Adatasource%2FPrometheus)** to report issues grafana related issues, bugs, feature-requests.
 
 ## Community resources
 
