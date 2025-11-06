@@ -9,6 +9,11 @@ This Repo contains my speaking details that I had presented in conferences and m
   
 ### October
 
+#### [PromCON EU 2025](https://promcon.io/2025-munich/) - Munich (Germany 🇩🇪)
+
+- Here is the [link](https://www.linkedin.com/feed/update/urn:li:activity:7388967331256807424/) to the LinkedIn post.
+- Here is the [link](https://www.youtube.com/watch?v=SzSUa5y7Ji0&t=25531s) to the video recording.
+ 
 #### [WordCamp Verona](https://verona.wordcamp.org/2025/) - Verona (Italy 🇮🇹)
 
 - Here is the [link](https://verona.wordcamp.org/2025/speaker/usman-ahmad/) to the Speaker profile.
