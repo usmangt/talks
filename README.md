@@ -4,6 +4,9 @@ This Repo contains slides that I had presented in conferences and meetups
 
 ## [2025](https://github.com/usmangt/talks/tree/master/2025)
 
+<details>
+<summary>List of all the conferences attended in the year 2025</summary>
+  
 ### October
 
 #### [WordCamp Verona](https://verona.wordcamp.org/2025/) - Verona (Italy 🇮🇹)
@@ -11,7 +14,6 @@ This Repo contains slides that I had presented in conferences and meetups
 - Here is the [link](https://verona.wordcamp.org/2025/speaker/usman-ahmad/) to the Speaker profile.
 - Here is the [link](https://www.linkedin.com/posts/usmanlinux_had-a-great-time-in-verona-for-the-wordcamp-activity-7384864067565334528-6JeU?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAMMGQABkrN2HdZ32VuvPXadVmKvaR5AfVQ) to the LinkedIn post.
 - Here is the link to the video recording. (TBA)
-
 
 ### September
 
@@ -59,8 +61,6 @@ This Repo contains slides that I had presented in conferences and meetups
 - Here is the [link](https://www.linkedin.com/posts/usmanlinux_learn-how-to-turn-your-github-data-into-interactive-activity-7336373732560543744-SKmh) to the Speaker profile.
 - Here is the [link](https://www.linkedin.com/feed/update/urn:li:activity:7339208530446495744/) to the LinkedIn post.
 - Here is the [link](https://www.youtube.com/watch?v=7Z8j0GTMyWU&list=PLqar5Efv1_YIkOTgVnSCqVHqYAbd8ciJr&index=1&pp=iAQB) to the video recording.
-
-
 
 ### May
 
@@ -110,8 +110,13 @@ This Repo contains slides that I had presented in conferences and meetups
 - Here is the [link](https://www.linkedin.com/feed/update/urn:li:activity:7286034723292786689/) to the LinkedIn post.
 - Here is the link to the video recording (TBA).
 
+</details>
+
 ## [2024](https://github.com/usmangt/talks/tree/master/2024)
 
+<details>
+<summary>List of all the conferences attended in the year 2024</summary>
+  
 ### Nov
 
 #### [OSMC (Open Source Monitoring Conference)](https://osmc.de/) - Nuremberg (Germany 🇩🇪) 
@@ -202,8 +207,13 @@ This Repo contains slides that I had presented in conferences and meetups
 - Here is the [link](https://koliseo.com/commit/2024/agenda/0) to my Speaker profile. 
 - Here is the [link](https://www.linkedin.com/posts/syed-usman-ahmad-b1415515_monitoring-observability-grafana-activity-7188089763474681856-GYwv?utm_source=share&utm_medium=member_desktop) to the LinkedIn post.
 
+</details>
+  
 ## [2023](https://github.com/usmangt/talks/tree/master/2023)
 
+<details>
+<summary>List of all the conferences attended in the year 2023</summary>
+  
 ### December 
 
 #### [Open Source Experience](https://www.opensource-experience.com/en/) - Paris (France 🇫🇷)
@@ -235,3 +245,4 @@ This Repo contains slides that I had presented in conferences and meetups
 - [GrafanaCON](https://www.meetup.com/grafana-and-friends-berlin/events/292833226/) - Berlin (Germany 🇩🇪)
 - Here is the [link](https://www.meetup.com/grafana-and-friends-berlin/events/292833226/) to the meetup
 
+</details>
