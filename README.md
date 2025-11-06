@@ -4,7 +4,55 @@ This Repo contains slides that I had presented in conferences and meetups
 
 ## [2025](https://github.com/usmangt/talks/tree/master/2025)
 
+### October
+
+#### [WordCamp Verona](https://verona.wordcamp.org/2025/) - Verona (Italy 🇮🇹)
+
+- Here is the [link](https://verona.wordcamp.org/2025/speaker/usman-ahmad/) to the Speaker profile.
+- Here is the [link](https://www.linkedin.com/posts/usmanlinux_had-a-great-time-in-verona-for-the-wordcamp-activity-7384864067565334528-6JeU?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAMMGQABkrN2HdZ32VuvPXadVmKvaR5AfVQ) to the LinkedIn post.
+- Here is the link to the video recording. (TBA)
+
+
+### September
+
+#### [Open Tech Day 25 Grafana Editiion](https://cloudxconf.com/) - Nuremberg (Germany 🇩🇪)
+
+- Here is the [link](https://opentechday.de/events/learning-grafana-skills-for-effective-monitoring/) to the Speaker profile.
+- Here is the [link](https://www.linkedin.com/posts/netways-gmbh_opentechday-grafana-ugcPost-7376189105531076609-4PB_?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAMMGQABkrN2HdZ32VuvPXadVmKvaR5AfVQ) to the LinkedIn post.
+
+#### [Cloud X](https://cloudxconf.com/) - Santa Clara (US 🇺🇸)
+
+- Here is the [link](https://apiworldcloudxdataweek2025.sched.com/speaker/syed_usman_ahmad.28asebjp?iframe=no) to the Speaker profile.
+- Here is the [link](https://www.linkedin.com/posts/usmanlinux_devrel-marketing-cloudx-activity-7374419779333550082-Of6u?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAMMGQABkrN2HdZ32VuvPXadVmKvaR5AfVQ) to the LinkedIn post.
+
+### August
+
+#### [AlmaLinux Day: Vancouver](https://almalinux.org/almalinux-day-vancouver-2025/) - Vancouver (Canada 🇨🇦)
+
+- Here is the [link](https://ossna2025.sched.com/speaker/usman.ahmad) to the Speaker profile.
+- Here is the [link](https://www.linkedin.com/feed/update/urn:li:activity:7353501916049350662/) to the LinkedIn post.
+
+### July
+
+#### [CNCF Community - KubeCraft: The Platform Engineering Experience](https://community.cncf.io/events/details/cncf-cloud-native-noida-presents-kubecraft-the-platform-engineering-experience/) - Virtual (India, Online 🇮🇳🌐)
+
+- Here is the [link](https://www.linkedin.com/feed/update/urn:li:activity:7353355652175458304/) to the Speaker profile.
+- Here is the [link](https://community.cncf.io/events/details/cncf-cloud-native-noida-presents-kubecraft-the-platform-engineering-experience/) to the Event.
+- Here is the [link](https://www.youtube.com/watch?v=stR3MX07OBs&list=PLqar5Efv1_YIkOTgVnSCqVHqYAbd8ciJr&index=5&pp=iAQB) to the video recording.
+
 ### June
+
+#### [The Linux Foundation - Open Source Summit North America](https://ossna2025.sched.com/) - Denver (US 🇺🇸)
+
+- Here is the [link](https://ossna2025.sched.com/speaker/usman.ahmad) to the Speaker profile.
+- Here is the [link](https://www.linkedin.com/posts/usmanlinux_ai-ml-mcp-activity-7346184200879833089-E0OB?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAMMGQABkrN2HdZ32VuvPXadVmKvaR5AfVQ) to the LinkedIn post.
+- Here is the [link](https://www.youtube.com/watch?v=OINq3JGb6vw&list=PLqar5Efv1_YIkOTgVnSCqVHqYAbd8ciJr&index=6&pp=iAQB) to the video recording.
+
+#### [Devoxx Poland 2025](https://devoxx.pl/) - Krakow (Poland 🇵🇱)
+
+- Here is the [link](https://devoxx.pl/talk-details/?id=9682) to the Speaker profile.
+- Here is the [link](https://www.linkedin.com/feed/update/urn:li:activity:7338830338900574208/) to the LinkedIn post.
+- Here is the [link](https://www.youtube.com/watch?v=dpq8c97THL0&list=PLqar5Efv1_YIkOTgVnSCqVHqYAbd8ciJr&index=3&pp=iAQB) to the video recording.
 
 #### [SREDay Cologne 2025](https://sreday.com/2025-cologne-q2/) - Cologne (Germany 🇩🇪))
 
@@ -12,11 +60,7 @@ This Repo contains slides that I had presented in conferences and meetups
 - Here is the [link](https://www.linkedin.com/feed/update/urn:li:activity:7339208530446495744/) to the LinkedIn post.
 - Here is the [link](https://www.youtube.com/watch?v=7Z8j0GTMyWU&list=PLqar5Efv1_YIkOTgVnSCqVHqYAbd8ciJr&index=1&pp=iAQB) to the video recording.
 
-#### [Devoxx Poland 2025](https://devoxx.pl/) - Krakow (Poland 🇵🇱)
 
-- Here is the [link](https://devoxx.pl/talk-details/?id=9682) to the Speaker profile.
-- Here is the [link](https://www.linkedin.com/feed/update/urn:li:activity:7338830338900574208/) to the LinkedIn post.
-- Here is the link to the video recording (TBA).
 
 ### May
 
@@ -29,7 +73,7 @@ This Repo contains slides that I had presented in conferences and meetups
 
 - Here is the [link](https://schedule.jcon.one/speaker/445593cb-1817-4787-8ce7-6362ed4b055a) to the Speaker profile.
 - Here is the [link](https://www.linkedin.com/feed/update/urn:li:activity:7319253509088923648/) to the LinkedIn post.
-- Here is the link to the video recording (TBA).
+- Here is the [link](https://www.youtube.com/watch?v=MAFcRhQm9uM&list=PLqar5Efv1_YIkOTgVnSCqVHqYAbd8ciJr&index=2&t=2s&pp=iAQB) to the video recording.
 
 #### [GrafanaCON 2025 **Hands-On-Lab Workshop**](https://grafana.com/events/grafanacon/) - Seattle (US 🇺🇸)
 
