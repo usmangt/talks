@@ -42,3 +42,10 @@ Also, check out my YouTube channel for **Linux and Grafana realted tutorials**:
 - Grafana **[Community forums](https://community.grafana.com/)**
 - Grafana **[Slack channel]( https://slack.grafana.com/)**
 
+# Bonus 🎉
+
+Check out the video, where I have also explained this in a video tutorial that covers everything from basic steps to advanced visualization techniques that can help you master Grafana skills.
+
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=FY7VmuQUk-s"><img src="https://img.youtube.com/vi/FY7VmuQUk-s/0.jpg" alt="Visualize GitHub with Grafana"></a>
+</div>
