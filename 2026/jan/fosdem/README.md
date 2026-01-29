@@ -18,6 +18,10 @@ Also, check out my YouTube channel for **Linux and Grafana realted tutorials**:
 # Links to Download
 
 - Download **[Grafana](https://grafana.com/grafana/)**
+  
+- Download **[cAdvisor](https://github.com/google/cadvisor)**
+
+- Download **[Prometheus](https://github.com/prometheus/prometheus)** 
 
 - Download **[The MLTP Repo](https://github.com/grafana/intro-to-mltp/)**
 
@@ -28,7 +32,7 @@ Also, check out my YouTube channel for **Linux and Grafana realted tutorials**:
 
 - Using **[Loki](https://grafana.com/docs/loki/latest/)**
 
-- How to use **[Prometheus with Grafana](https://www.youtube.com/watch?v=Wmgs1E9Ry-s)**
+- Getting started with **[Prometheus and Grafana](https://grafana.com/docs/grafana/latest/fundamentals/getting-started/first-dashboards/get-started-grafana-prometheus/)** 
 
 - Exploring **[Grafana Panels and Visualisation](https://grafana.com/docs/grafana/latest/panels-visualizations/)**
 
@@ -44,8 +48,22 @@ Also, check out my YouTube channel for **Linux and Grafana realted tutorials**:
 
 # Bonus 🎉
 
-Check out the video, where I have also explained this in a video tutorial that covers everything from basic steps to advanced visualization techniques that can help you master Grafana skills.
+Check out the step-by-step videos, where I have also explained how to use:
+
+- **Grafana Loki**
 
 <div align="center">
-  <a href="https://www.youtube.com/watch?v=FY7VmuQUk-s"><img src="https://img.youtube.com/vi/FY7VmuQUk-s/0.jpg" alt="Visualize GitHub with Grafana"></a>
+  <a href="https://www.youtube.com/watch?v=yu6mquUy3WI"><img src="https://img.youtube.com/vi/yu6mquUy3WI/0.jpg" alt="Visualize Logs with Grafana Loki"></a>
+</div>
+
+- **Grafana Alloy**
+
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=hfynWFZx6G4"><img src="https://img.youtube.com/vi/hfynWFZx6G4/0.jpg" alt="How to use Grafana Alloy with Loki for Logs visualization"></a>
+</div>
+
+- **Grafana OSS on Docker**
+
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=wL1mUDYgDK4"><img src="https://img.youtube.com/vi/wL1mUDYgDK4/0.jpg" alt="How to install Grafana OSS on Docker"></a>
 </div>
