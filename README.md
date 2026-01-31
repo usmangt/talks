@@ -2,6 +2,20 @@
 
 This Repo contains my speaking details that I had presented in conferences and meetups.
 
+## [2026](https://github.com/usmangt/talks/tree/master/2026)
+
+<details>
+<summary>List of all the conferences attended in the year 2026</summary>
+  
+### January
+
+#### [FOSDEM 2026](https://fosdem.org/2026/) - Brussels (Belgium 🇧🇪)
+
+- Here is the [link](https://www.linkedin.com/feed/update/urn:li:activity:7421900709631025152/) to the LinkedIn post.
+- TBA Link to the video recording.
+
+</details>
+
 ## [2025](https://github.com/usmangt/talks/tree/master/2025)
 
 <details>
