@@ -39,3 +39,13 @@ Also, check out my YouTube channel for **Linux and Grafana realted tutorials**:
 ## Troubleshooting
 
 - Grafana public **[GitHub repo](https://github.com/grafana/grafana/)** to report issues grafana related issues, bugs, feature-requests
+
+# Bonus 🎉
+
+Check out this video that explains how to get help about your Grafana question by using the right channel
+
+- **How to get help from the Grafana Official Community**
+
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=81xwChxuzXw"><img src="https://img.youtube.com/vi/81xwChxuzXw/0.jpg" alt="Understanding and Getting help from the Official Grafana Community"></a>
+</div>
