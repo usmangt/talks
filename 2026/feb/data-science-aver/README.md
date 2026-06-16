@@ -2,7 +2,7 @@
 
 In this repo, you will find information about the useful links that I presented during my talk on **Unlocking Key metrics and Patterns using Grafana**.
 
-This talk was presented at **[Data Science Conference 2026](https://datascience.averconferences.com/)** in Dubai, Unite Arab Emitrates (UAE) 🇦🇪
+This talk was presented at **[Data Science Conference 2026](https://datascience.averconferences.com/)** in Dubai, United Arab Emitrates (UAE) 🇦🇪
 
 In case any of the links do not work, then please report an issue about it and I will be happy to fix it ASAP.
 
