@@ -39,6 +39,8 @@ Also, check out my YouTube channel for **Linux and Grafana realted tutorials**:
 
 - Google Sheets **[Refernece Guide](https://developers.google.com/sheets)**
 
+- Getting startd with **[Grafana Assistant (AI)](https://grafana.com/docs/grafana-cloud/machine-learning/assistant/get-started/)**
+
 
 ## Live Demo Dashboards
 
