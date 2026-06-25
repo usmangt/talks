@@ -30,7 +30,9 @@ Also, check out the YouTube channel for **Grafana realted tutorials**:
 
 ## Documentation links
 
-- New to Grafana, learn it from the **[Official Tutorial](https://grafana.com/tutorials/grafana-fundamentals/?pg=tutorials&plcmt=results)**
+- Using **[Finhub API](https://finnhub.io/)** for live data.
+
+- Link to the **[Yahoo Finance API](https://github.com/ranaroussi/yfinance)** Repository
 
 - About **[Transformation](https://grafana.com/docs/grafana/latest/panels-visualizations/query-transform-data/transform-data/)**
 
@@ -43,12 +45,6 @@ Also, check out the YouTube channel for **Grafana realted tutorials**:
 ## Troubleshooting
 
 - Grafana **[GitHub repo](https://github.com/grafana/grafana/)** to report issues grafana related issues, bugs, feature-requests
-
-## Useful resources
-
-- Grafana **[Community forums](https://community.grafana.com/)**
-
-- Grafana **[Slack channel]( https://slack.grafana.com/)**
 
 # Bonus 🎉
 
