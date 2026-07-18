@@ -16,32 +16,34 @@ If you want to learn more about Grafana or want a training/workshop program for 
 
 - Download **[Grafana](https://grafana.com/grafana/)**
 
-- Download **[MySQL Data source plugin](https://grafana.com/grafana/plugins/mysql/)**
+- Download **[Loki](https://grafana.com/docs/loki/latest/setup/install/)**
+
+- Download **[Grafana Alloy](https://grafana.com/docs/alloy/latest/set-up/install/)**
 
 ## Documentation links
 
-- About **[Transformation](https://grafana.com/docs/grafana/latest/panels-visualizations/query-transform-data/transform-data/)**
+- Learn About **[using Gafana Loki](https://grafana.com/docs/loki/latest/get-started/)**
 
-- Understanding **[Dashboard Variables](https://grafana.com/docs/grafana/latest/dashboards/variables/)**
+- Understanding **[Alloy and OpenTelemetry](https://grafana.com/docs/alloy/latest/introduction/why-alloy/)**
 
 - Exploring **[Grafana Panels and Visualisation](https://grafana.com/docs/grafana/latest/panels-visualizations/)**
 
 - Getting started wiith **[Grafana Alerting](https://grafana.com/docs/grafana-cloud/alerting-and-irm/alerting/)**
 
-- How to visualize log files by using **[Grafana Loki](https://grafana.com/docs/loki/latest/?pg=oss-loki&plcmt=quick-links)**
-
 ## Troubleshooting
 
+- Loki **[GitHub repo](https://github.com/grafana/loki/issues)**
 
 ## Community resources
 
 - Grafana **[Slack channel]( https://slack.grafana.com/)**
+- Grafana **[Loki Community Forum](https://community.grafana.com/c/grafana-loki/41)**
 
 # Bonus 🎉
 
-Check out this video that explains how to get started with Grafana.
+Check out this video that explains how to get started with Grafana Loki and Alloy.
 
-- **Getting sarted with Log file Analysis using Grafnaa Loki (Beginner to Advancd) - Complete Playlist**
+- **Getting sarted with Linux Log file Analysis using Grafnaa Loki (Beginner to Advancd) - Complete Playlist**
 
 <div align="center">
   <a href="https://www.youtube.com/playlist?list=PLqar5Efv1_YLL3c4t-Z-tkS1LHv1utlvi">
