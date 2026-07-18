@@ -38,6 +38,7 @@ If you want to learn more about Grafana or want a training/workshop program for 
 
 - Grafana **[Slack channel]( https://slack.grafana.com/)**
 - Grafana **[Loki Community Forum](https://community.grafana.com/c/grafana-loki/41)**
+- Grafana **[Loki Nignx dashoard Example](https://play.grafana.org/d/T512JVH7z/loki-nginx-service-mesh-json-version)**
 
 # Bonus 🎉
 
