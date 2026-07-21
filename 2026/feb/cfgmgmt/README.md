@@ -1,6 +1,6 @@
 # A Walk through the Open Source Ecosystem in the CNCF Observability Landscape
 
-In this repo, you will find information about the useful links, I presented during my talk on **A Walk through the Open Source Ecosystem in the CNCF Observability Landscape** at the **CfgMgmtCamp** in Ghent, Brussels 🇧🇪
+In this repo, you will find information about the useful links, I presented during my talk on **A Walk through the Open Source Ecosystem in the CNCF Observability Landscape** at the **[CfgMgmtCamp](https://cfgmgmtcamp.org/ghent2026/)** in Ghent, Brussels 🇧🇪
 
 In case any of the links do not work, then please report an issue about it and I will be happy to fix it ASAP.
 
