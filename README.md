@@ -6,13 +6,70 @@ This Repo contains my speaking details that I had presented in conferences and m
 
 <details>
 <summary>List of all the conferences attended in the year 2026</summary>
+
+### July
+
+#### [AlmaLinux Day](https://almalinux.org/almalinux-day-los-angeles-2026/) - Los Angeles (US 🇺🇸)
+
+- Here is the [link](https://www.linkedin.com/posts/usmanlinux_almalinux-day-la-full-session-list-activity-7482767188479733761-NqmY) to the Speaker Profile post.
+- Here is the [link](https://www.linkedin.com/feed/update/urn:li:activity:7485333304062296064/) to the LinkedIn post.
+- Link to the video recording (TBA).
+
+### June
+
+#### [The Linux Foundation - Open Source in Finance Forum](https://osfflondon2026.sched.com/event/2KTrj?iframe=no) - London (England 🏴󠁧󠁢󠁥󠁮󠁧󠁿)
+
+- Here is the [link](https://osfflondon2026.sched.com/speaker/usman.ahmad) to the Speaker Profile post.
+- Here is the [link](https://www.linkedin.com/posts/usmanlinux_finos-opensource-osff-activity-7478054853819408386-D04o) to the LinkedIn post.
+- Link to the video recording (TBA).
+
+
+#### [Adobe CFCamp](https://www.cfcamp.org/cfcamp-conference-2026.html) - Munich (Germany 🇩🇪)
+
+- Here is the [link](https://www.cfcamp.org/cfcamp-conference-2026/speakers.html) to the Speaker Profile post.
+- Link to the video recording (TBA).
+
+#### [Devoxx Poland](https://devoxx.pl/) - Krakow (Poland 🇵🇱)
+
+- Here is the [link](https://devoxx.pl/speaker/?id=9584) to the Speaker Profile post.
+- Here is the [link](https://www.linkedin.com/posts/usmanlinux_devoxx-grafana-data-activity-7475551896108249088-oFg3) to the LinkedIn post.
+- [Link](https://www.youtube.com/watch?v=tzO5iOEURMI&list=PLqar5Efv1_YIkOTgVnSCqVHqYAbd8ciJr&index=27&pp=iAQBsAgC) to the video recording.
+
+#### [Grafana Meetup Nuremberg](https://www.meetup.com/grafana-friends-nuremberg/events/314068520/) - Nuremberg (Germany 🇩🇪)
+
+- Here is the [link](https://www.linkedin.com/posts/usmanlinux_grafana-activity-7470781579179765761-V7-L) to the LinkedIn post.
+- Link to the video recording (TBA).
+
+
+#### [GrafanaCON Local Berlin](https://www.meetup.com/grafana-and-friends-berlin/events/313665964/) - Berlin (Germany 🇩🇪)
+
+- Here is the [link](https://www.linkedin.com/posts/usmanlinux_wrapped-up-another-obscon-local-in-berlin-activity-7472258007041601537-gSpC) to the LinkedIn post.
+
+### March
+
+#### [DecompiledD](https://decompiled.de/dcd26/programme-2026/) - Dresden (Germany 🇩🇪)
+
+- Here is the [link](https://www.linkedin.com/posts/usmanlinux_decompiled26-grafana-observability-activity-7440061910491881473-QZnv) to the LinkedIn post.
+- Here is the [link](https://decompiled.de/programm/build-interactive-observable-and-unified-dashboards-for-your-projects/) to the Speaker profile.
+- [Link](https://decompiled.de/programm/build-interactive-observable-and-unified-dashboards-for-your-projects/) to the recording.
+
+
+### Feburary
+
+#### [Data Science Conference](https://datascience.averconferences.com/) - Dubai (UAE 🇦🇪)
+
+- Here is the [link](https://datascience.averconferences.com/speakers2026.php) to the Speaker profile.
+
+#### [CfgMgmtCamp 2026](https://cfgmgmtcamp.org/ghent2026/) - Ghent (Belgium 🇧🇪)
+
+- Here is the [link](https://cfp.cfgmgmtcamp.org/ghent2026/speaker/QUG7RU/) to the Speaker profile.
   
 ### January
 
 #### [FOSDEM 2026](https://fosdem.org/2026/) - Brussels (Belgium 🇧🇪)
 
 - Here is the [link](https://www.linkedin.com/feed/update/urn:li:activity:7421900709631025152/) to the LinkedIn post.
-- TBA Link to the video recording.
+- [Link](https://fosdem.org/2026/schedule/event/ABTDUF-the_perfect_open_source_toolkit_for_container_monitoring/) to the video recording.
 
 </details>
 
