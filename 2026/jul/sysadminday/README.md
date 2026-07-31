@@ -24,6 +24,8 @@ If you want to learn more about Grafana or want a training/workshop program for 
 
 - Learn About **[using Gafana Loki](https://grafana.com/docs/loki/latest/get-started/)**
 
+- Reference **[Dashboard for Grafana Nginx Server](https://play.grafana.org/d/T512JVH7z/loki-nginx-service-mesh-json-version)** publicly available at Grafana Play platform
+
 - Understanding **[Alloy and OpenTelemetry](https://grafana.com/docs/alloy/latest/introduction/why-alloy/)**
 
 - Exploring **[Grafana Panels and Visualisation](https://grafana.com/docs/grafana/latest/panels-visualizations/)**
