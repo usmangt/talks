@@ -32,8 +32,6 @@ If you want to learn more about Grafana or want a training/workshop program for 
 
 - How to visualize log files by using **[Grafana Loki](https://grafana.com/docs/loki/latest/?pg=oss-loki&plcmt=quick-links)**
 
-- Uisng the **[Private Data source Connect (PDC)](https://grafana.com/docs/grafana-cloud/connect-externally-hosted/private-data-source-connect/)**
-
 ## Troubleshooting
 
 - MySQL Plugin public repo. **[MySQL Plugin repo](https://github.com/grafana/grafana/issues)** to report issues grafana related issues, bugs, feature-requests
