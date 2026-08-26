@@ -58,7 +58,7 @@ Check out this video that explains how to get started with Grafana.
 
 <div align="center">
   <a href="https://www.youtube.com/playlist?list=PLqar5Efv1_YLL3c4t-Z-tkS1LHv1utlvi">
-    <img src="https://img.youtube.com/vi/yu6mquUy3WI/0.jpg" alt="Complete Grafana Tutorial Playlist">
+    <img src="https://img.youtube.com/vi/UNyYgCNpx4A/0.jpg" alt="Complete Grafana Tutorial Playlist">
     <br/>
     <img src="https://img.shields.io/badge/YouTube-Playlist-red?logo=youtube" alt="Grafana Tutorial Playlist">
   </a>
