@@ -34,6 +34,8 @@ Also, checkout my YouTube channel where I upload tutorial videos for Open Source
 
 - Grafana **[Slack channel]( https://slack.grafana.com/)**
 
+- Preconfigured **[GitHub Dashboard](https://grafana.com/grafana/dashboards/14000-github-default/)** 
+
 # Bonus 🎉
 
 Check out the video, where I have also explained this in a video tutorial that covers everything from basic steps to advanced visualization techniques that can help you master Grafana skills.
