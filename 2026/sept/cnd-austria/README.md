@@ -18,6 +18,9 @@ Also, check out my YouTube channel for **Linux and OSS related tutorials**:
 # About CNCF Landscape (projects)
 - Complete **[CNCF Landscape](https://landscape.cncf.io/)**
 
+# Community Resources
+Here is the complete list of community resources and contributions:
+
 ## Community Dashboards
 
 - **[Download pre-configured dashboards](https://grafana.com/grafana/dashboards/)** created by the community.
@@ -32,7 +35,7 @@ Also, check out my YouTube channel for **Linux and OSS related tutorials**:
 
 - Link to **[Play](https://play.grafana.org/)** to view and get ideas for your data.
 
-# Create your own plugin
+## Create your own plugin
 
 - Link to **[developer documentation](https://grafana.com/developers/plugin-tools/)** for creating your own plugin
 
@@ -40,3 +43,18 @@ Also, check out my YouTube channel for **Linux and OSS related tutorials**:
 
 - **[Community forum](https://community.grafana.com/)** for discussion
 - **[Slack channel](https://slack.grafana.com/)**
+
+# Bonus 🎉
+
+Check out this video playlist for Linux and other Open Source Tools
+
+- **Visualizing Log files in Linux - Complete Playlist**
+
+<div align="center">
+  <a href="https://www.youtube.com/playlist?list=PLqar5Efv1_YLL3c4t-Z-tkS1LHv1utlvi">
+    <img src="https://img.youtube.com/vi/yu6mquUy3WI/0.jpg" alt="Visualize log files">
+    <br/>
+    <img src="https://img.shields.io/badge/YouTube-Playlist-red?logo=youtube" alt="Grafana Tutorial Playlist">
+  </a>
+</div>
+
