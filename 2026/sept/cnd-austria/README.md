@@ -41,7 +41,7 @@ Here is the complete list of community resources and contributions:
 
 ## Community Forums and Groups
 
-- **[Community forum](https://community.grafana.com/)** for discussion
+- **[Community forum](https://community.grafana.com/)**
 - **[Slack channel](https://slack.grafana.com/)**
 
 # Bonus 🎉
