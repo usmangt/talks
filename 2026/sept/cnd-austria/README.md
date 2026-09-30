@@ -24,12 +24,12 @@ Here is the complete list of community resources and contributions:
 ## Community Dashboards
 
 - **[Download pre-configured dashboards](https://grafana.com/grafana/dashboards/)** created by the community.
-- 
+ 
 ## Community plugins catalog
 
 - Link to **[data sources](https://grafana.com/grafana/plugins/search/?type=datasource&publisher=community)**
-- Link to [panels](https://grafana.com/grafana/plugins/search/?publisher=community&type=panel)
-- Link to [Apps](https://grafana.com/grafana/plugins/search/?publisher=community&type=app)
+- Link to **[panels](https://grafana.com/grafana/plugins/search/?publisher=community&type=panel)**
+- Link to **[Apps](https://grafana.com/grafana/plugins/search/?publisher=community&type=app)**
 
 ## View running dashboard concepts
 
