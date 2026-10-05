@@ -14,18 +14,15 @@ If you want to learn more about Grafana or want a training/workshop program for 
 
 # Links to Download
 
-- Download **[Loki](https://grafana.com/docs/loki/latest/setup/install/)**
-
+- Download **[Loki OSS](https://grafana.com/docs/loki/latest/setup/install/)**
 - Download **[Open Telemetry](https://opentelemetry.io/docs/collector/install/)**
+- Download **[Grafana OSS](https://grafana.com/grafana/download?edition=oss)**
 
 ## Documentation links
 
 - Learn About **[using Gafana Loki](https://grafana.com/docs/loki/latest/get-started/)**
-
 - Understanding **[OpenTelemetry](https://opentelemetry.io/docs/)**
-
 - Exploring **[Grafana Panels and Visualisation](https://grafana.com/docs/grafana/latest/panels-visualizations/)**
-
 - Getting started with **[Alerting Fundamentals](https://grafana.com/docs/grafana/latest/alerting/fundamentals/)**
 
 ## Troubleshooting
