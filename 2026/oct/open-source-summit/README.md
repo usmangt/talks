@@ -14,31 +14,32 @@ If you want to learn more about Grafana or want a training/workshop program for 
 
 # Links to Download
 
-- Download **[Grafana](https://grafana.com/grafana/)**
-
 - Download **[Loki](https://grafana.com/docs/loki/latest/setup/install/)**
 
-- Download **[Grafana Alloy](https://grafana.com/docs/alloy/latest/set-up/install/)**
+- Download **[Open Telemetry](https://opentelemetry.io/docs/collector/install/)**
 
 ## Documentation links
 
 - Learn About **[using Gafana Loki](https://grafana.com/docs/loki/latest/get-started/)**
 
-- Understanding **[Alloy and OpenTelemetry](https://grafana.com/docs/alloy/latest/introduction/why-alloy/)**
+- Understanding **[OpenTelemetry](https://opentelemetry.io/docs/)**
 
 - Exploring **[Grafana Panels and Visualisation](https://grafana.com/docs/grafana/latest/panels-visualizations/)**
 
-- Getting started wiith **[Grafana Alerting](https://grafana.com/docs/grafana-cloud/alerting-and-irm/alerting/)**
+- Getting started with **[Alerting Fundamentals](https://grafana.com/docs/grafana/latest/alerting/fundamentals/)**
 
 ## Troubleshooting
 
 - Loki **[GitHub repo](https://github.com/grafana/loki/issues)**
+- OTel **[GitHub repo](https://github.com/open-telemetry/opentelemetry-collector)**
 
 ## Community resources
 
+- Open Telemtry end-user **[Community resources](https://opentelemetry.io/community/end-user/)**
+- Loki **[Community Forum](https://community.grafana.com/c/grafana-loki/41)**
 - Grafana **[Slack channel]( https://slack.grafana.com/)**
-- Grafana **[Loki Community Forum](https://community.grafana.com/c/grafana-loki/41)**
-- Grafana **[Loki Nignx dashoard Example](https://play.grafana.org/d/T512JVH7z/loki-nginx-service-mesh-json-version)**
+- Sample **[Loki Nignx dashoard Example](https://play.grafana.org/d/T512JVH7z/loki-nginx-service-mesh-json-version)**
+
 
 # Bonus 🎉
 
