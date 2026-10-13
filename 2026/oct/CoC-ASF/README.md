@@ -4,7 +4,7 @@
 
 In this repo, you will find information about the useful links that I presented during my talk on **Monitor with Confidence: The Complete Monitoring Stack For Your Apache Server**.
 
-This talk was presented at **[The Apache Foundation - Community over Code](https://communityovercode.apache.org/events/glasgow-2026/)** in Glasgow, Scotland 🏴󠁧󠁢󠁳󠁣󠁴󠁿.
+This talk was presented at **[The Apache Software Foundation (ASF) - Community over Code](https://communityovercode.apache.org/events/glasgow-2026/)** in Glasgow, Scotland 🏴󠁧󠁢󠁳󠁣󠁴󠁿.
 
 In case any of the links do not work, then please report an issue about it and I will be happy to fix it ASAP.
 
