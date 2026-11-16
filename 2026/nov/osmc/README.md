@@ -1,4 +1,4 @@
-# IGNITE: Beyond Traditional Observability – How Grafana data sources extends the Modern Needs for your Infrastructure
+# Beyond Traditional Observability – How Grafana data sources extends the Modern Needs for your Infrastructure
 
 In this repo, you will find information about the useful links, I presented during my ignite talk on **Beyond Traditional Observability – How Grafana data sources extends the Modern Needs for your Infrastructure** at the **The Open Source Monitoring Conference: OSMC 2026** in Nuremberg, Germany 🇩🇪
 
