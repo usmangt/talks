@@ -15,20 +15,20 @@ Also, check out my YouTube channel for **Linux and OSS related tutorials**:
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=Free%20Open%20Source%20Tutorials&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="youtube logo"  />
   </a>
 
-# Community Resources
-Here is the complete list of community resources and contributions:
+# Resources
+Here is the complete list of useful resources:
  
-## Community plugins catalog
+## Data source plugins catalog
 
-- Link to **[data sources](https://grafana.com/grafana/plugins/search/?type=datasource&publisher=community)**
+- Link to all available **[data sources](https://grafana.com/grafana/plugins/search/?type=datasource&publisher=community)**
 
 ## View live examples
 
-- Link to **[Play](https://play.grafana.org/)** to view and get ideas for your data.
+- Link to **[Grafana Play Instance](https://play.grafana.org/)** to view and get ideas for your data.
 
 ## Create your own plugin
 
-- Link to **[developer documentation](https://grafana.com/developers/plugin-tools/)** for creating your own plugin
+- Link to **[developer documentation](https://grafana.com/developers/plugin-tools/)** for creating your own plugin.
 
 ## Community Forums and Groups
 
